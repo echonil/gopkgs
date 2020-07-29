@@ -1,4 +1,4 @@
-module github.com/razonyang/gopkgs
+module github.com/echonil/gopkgs
 
 go 1.13
 

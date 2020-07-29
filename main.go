@@ -1,6 +1,6 @@
 package main
 
-import "github.com/razonyang/gopkgs/cmd"
+import "github.com/echonil/gopkgs/cmd"
 
 func main() {
 	cmd.Execute()

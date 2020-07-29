@@ -5,9 +5,9 @@ import (
 	"os"
 
 	"clevergo.tech/osenv"
+	"github.com/echonil/gopkgs/internal/core"
 	"github.com/jmoiron/sqlx"
 	"github.com/joho/godotenv"
-	"github.com/razonyang/gopkgs/internal/core"
 	"github.com/urfave/cli/v2"
 )
 

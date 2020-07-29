@@ -2,7 +2,7 @@ package home
 
 import (
 	"clevergo.tech/clevergo"
-	"github.com/razonyang/gopkgs/internal/core"
+	"github.com/echonil/gopkgs/internal/core"
 )
 
 type Handler struct {

@@ -5,8 +5,8 @@ import (
 
 	"clevergo.tech/authmiddleware"
 	"github.com/alexedwards/scs/v2"
+	"github.com/echonil/gopkgs/internal/web/alert"
 	"github.com/jmoiron/sqlx"
-	"github.com/razonyang/gopkgs/internal/web/alert"
 )
 
 type Handler struct {

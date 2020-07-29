@@ -5,9 +5,9 @@ import (
 
 	"clevergo.tech/authmiddleware"
 	"clevergo.tech/clevergo"
-	"github.com/razonyang/gopkgs/internal/core"
-	"github.com/razonyang/gopkgs/internal/middleware"
-	"github.com/razonyang/gopkgs/internal/models"
+	"github.com/echonil/gopkgs/internal/core"
+	"github.com/echonil/gopkgs/internal/middleware"
+	"github.com/echonil/gopkgs/internal/models"
 )
 
 type Handler struct {

@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/echonil/gopkgs/internal/models"
 	validation "github.com/go-ozzo/ozzo-validation/v4"
 	"github.com/go-ozzo/ozzo-validation/v4/is"
 	"github.com/google/uuid"
 	"github.com/jmoiron/sqlx"
-	"github.com/razonyang/gopkgs/internal/models"
 )
 
 type Form struct {

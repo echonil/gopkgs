@@ -9,11 +9,11 @@ import (
 	"strings"
 	"time"
 
+	"github.com/echonil/gopkgs/internal/core"
 	"github.com/go-ozzo/ozzo-validation/is"
 	validation "github.com/go-ozzo/ozzo-validation/v4"
 	"github.com/google/uuid"
 	"github.com/jmoiron/sqlx"
-	"github.com/razonyang/gopkgs/internal/core"
 )
 
 type Domain struct {
